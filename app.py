@@ -2,15 +2,13 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pickle
 import pandas as pd
-from pyngrok import ngrok
-from threading import Thread
+import os
 
-NGROK_AUTH_TOKEN = "2myGpjp7qIUGyA03PrkdSAw5nCy_4dNyxuyPHzLNgxY7Bk8f1"
-ngrok.set_auth_token(NGROK_AUTH_TOKEN)
-
+# Load model
 with open("chatbot_model.pkl", "rb") as f:
     chatbot_model = pickle.load(f)
 
+# Load FAQ dataset
 faq_df = pd.read_csv("faq_dataset.csv")
 
 app = Flask(__name__)
@@ -24,10 +22,7 @@ def chat():
     bot_reply = faq_df[faq_df['intent'] == predicted_intent]['bot_response'].iloc[0]
     return jsonify({"intent": predicted_intent, "response": bot_reply})
 
-public_url = ngrok.connect(5000)
-print(f" * ngrok tunnel available at: {public_url}")
-
-def run():
-    app.run(port=5000)
-
-Thread(target=run).start()
+if __name__ == '__main__':
+    # Railway sets the PORT environment variable
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
