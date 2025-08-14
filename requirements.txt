@@ -1,4 +1,6 @@
-flask
+Flask
 flask-cors
 pandas
+numpy
+tensorflow-cpu==2.15.0
 scikit-learn
