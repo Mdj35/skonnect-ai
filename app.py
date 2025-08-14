@@ -3,16 +3,21 @@ from flask_cors import CORS
 import pickle
 import pandas as pd
 import os
+import numpy as np
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-# Load model & vectorizer
-with open("chatbot_model.pkl", "rb") as f:
-    chatbot_model = pickle.load(f)
+# Load model & preprocessors
+model = load_model("chatbot_model.h5")
+with open("tokenizer.pkl", "rb") as f:
+    tokenizer = pickle.load(f)
+with open("label_encoder.pkl", "rb") as f:
+    label_encoder = pickle.load(f)
 
-with open("vectorizer.pkl", "rb") as f:
-    vectorizer = pickle.load(f)
-
-# Load FAQ dataset
+# Load FAQ responses
 faq_df = pd.read_csv("faq_dataset.csv")
+
+max_len = 20
 
 app = Flask(__name__)
 CORS(app)
@@ -22,13 +27,16 @@ def chat():
     data = request.json
     message = data.get('message', '').lower()
 
-    # Transform message to vector
-    X_input = vectorizer.transform([message])
+    # Preprocess message
+    seq = tokenizer.texts_to_sequences([message])
+    padded = pad_sequences(seq, maxlen=max_len, padding='post')
 
     # Predict intent
-    predicted_intent = chatbot_model.predict(X_input)[0]
+    pred = model.predict(padded)
+    intent_idx = np.argmax(pred)
+    predicted_intent = label_encoder.inverse_transform([intent_idx])[0]
 
-    # Find response
+    # Get response
     bot_reply = faq_df[faq_df['intent'] == predicted_intent]['bot_response'].iloc[0]
 
     return jsonify({"intent": predicted_intent, "response": bot_reply})
