@@ -19,7 +19,7 @@ with open("tokenizer.pkl", "rb") as f:
 with open("label_encoder.pkl", "rb") as f:
     label_encoder = pickle.load(f)
 
-faq_df = pd.read_csv("sk_faq_dataset.csv")
+faq_df = pd.read_csv("sk_faq_dataset_fully_unique.csv")
 max_len = 20
 
 # ========================
