@@ -29,8 +29,8 @@ vectorizer = HashingVectorizer(n_features=2**16)
 clf = SGDClassifier(loss="log")
 
 # Initialize with at least 1 sample per class from FAQ dataset
-if "intent" in faq_df.columns:
-    X_init = vectorizer.transform(faq_df["sample_question"].astype(str).tolist())
+if "intent" in faq_df.columns and "patterns" in faq_df.columns:
+    X_init = vectorizer.transform(faq_df["patterns"].astype(str).tolist())
     y_init = faq_df["intent"].astype(str).tolist()
     clf.partial_fit(X_init, y_init, classes=np.unique(y_init))
 
@@ -39,7 +39,7 @@ if "intent" in faq_df.columns:
 # ========================
 LOG_FILE = "chat_logs.csv"
 if not os.path.exists(LOG_FILE):
-    pd.DataFrame(columns=["timestamp", "user_message", "predicted_intent", "bot_response"]).to_csv(LOG_FILE, index=False)
+    pd.DataFrame(columns=["timestamp", "user_message", "predicted_intent", "bot_response", "model_source"]).to_csv(LOG_FILE, index=False)
 
 def log_conversation(user_message, predicted_intent, bot_reply, source="keras"):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
