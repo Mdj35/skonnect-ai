@@ -1,0 +1,1001 @@
+intent,patterns,bot_response
+noise_control,Q1: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q2: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+drugs,Q3: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+violence,Q4: Barangay strictly prohibits domestic violence and physical assault.,Barangay strictly prohibits domestic violence and physical assault.
+waste_management,"Q5: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+curfew,Q6: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+barangay_clearance,Q7: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+waste_management,Q8: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+violence,Q9: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+alcohol_regulation,Q10: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+curfew,Q11: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+noise_control,Q12: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+drugs,Q13: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+violence,Q14: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+curfew,Q15: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+noise_control,Q16: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+violence,Q17: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+barangay_clearance,Q18: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+drugs,Q19: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+curfew,Q20: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+waste_management,Q21: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+waste_management,"Q22: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+drugs,Q23: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+loitering,Q24: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+community_service,Q25: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+community_service,Q26: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+alcohol_regulation,Q27: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+curfew,Q28: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+alcohol_regulation,Q29: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+curfew,Q30: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+barangay_clearance,Q31: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q32: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+noise_control,Q33: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q34: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+drugs,Q35: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q36: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+community_service,Q37: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+drugs,Q38: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+drugs,Q39: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+barangay_clearance,Q40: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+violence,Q41: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+loitering,Q42: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q43: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+noise_control,Q44: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+alcohol_regulation,Q45: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+permits,Q46: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+curfew,Q47: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+barangay_clearance,Q48: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+permits,Q49: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+violence,Q50: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+permits,Q51: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+waste_management,Q52: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+curfew,Q53: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+violence,Q54: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+alcohol_regulation,Q55: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+loitering,Q56: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+barangay_clearance,Q57: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+alcohol_regulation,Q58: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+alcohol_regulation,Q59: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+drugs,Q60: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q61: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+curfew,Q62: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q63: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+permits,Q64: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+barangay_clearance,Q65: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+community_service,Q66: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+noise_control,Q67: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+community_service,Q68: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+loitering,Q69: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q70: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+community_service,Q71: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+waste_management,Q72: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+loitering,Q73: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+noise_control,Q74: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+barangay_clearance,Q75: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q76: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+loitering,Q77: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+noise_control,Q78: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+barangay_clearance,Q79: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+drugs,Q80: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+violence,Q81: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+community_service,Q82: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+noise_control,Q83: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+violence,Q84: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+permits,Q85: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+violence,Q86: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+violence,Q87: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+alcohol_regulation,Q88: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+violence,Q89: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+permits,Q90: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+barangay_clearance,Q91: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+alcohol_regulation,Q92: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+noise_control,Q93: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+alcohol_regulation,Q94: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+alcohol_regulation,Q95: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+permits,Q96: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+drugs,Q97: Barangay Buhangin supports anti-illegal drugs campaigns.,Illegal drug possession and use are punishable by law.
+drugs,Q98: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+permits,Q99: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+drugs,Q100: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+drugs,Q101: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q102: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+noise_control,Q103: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+alcohol_regulation,Q104: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q105: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+loitering,Q106: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q107: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+alcohol_regulation,Q108: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+waste_management,Q109: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+community_service,Q110: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+noise_control,Q111: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+curfew,Q112: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+community_service,Q113: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+permits,Q114: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+violence,Q115: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+curfew,Q116: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+barangay_clearance,Q117: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q118: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+community_service,Q119: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+violence,Q120: Violent behavior will be reported to barangay officials and police.,Barangay strictly prohibits domestic violence and physical assault.
+permits,Q121: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+curfew,Q122: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+community_service,Q123: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+violence,Q124: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+permits,Q125: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+noise_control,Q126: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+curfew,Q127: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q128: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+violence,Q129: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+drugs,Q130: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+alcohol_regulation,Q131: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+noise_control,Q132: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q133: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+alcohol_regulation,Q134: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+community_service,Q135: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+loitering,Q136: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+curfew,Q137: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+alcohol_regulation,Q138: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+permits,Q139: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+violence,Q140: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+alcohol_regulation,Q141: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+drugs,Q142: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q143: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+permits,Q144: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+drugs,Q145: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+barangay_clearance,Q146: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+community_service,Q147: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+permits,Q148: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+violence,Q149: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+community_service,Q150: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+loitering,Q151: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q152: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+waste_management,Q153: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+waste_management,"Q154: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+noise_control,Q155: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+drugs,Q156: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+violence,Q157: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+loitering,Q158: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q159: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+barangay_clearance,Q160: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+drugs,Q161: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q162: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+drugs,Q163: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+curfew,Q164: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q165: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+curfew,Q166: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+drugs,Q167: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q168: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+permits,Q169: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+violence,Q170: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+loitering,Q171: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q172: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+loitering,Q173: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+curfew,Q174: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+loitering,Q175: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+drugs,Q176: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+curfew,Q177: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+drugs,Q178: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q179: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+barangay_clearance,Q180: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+noise_control,Q181: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+drugs,Q182: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+barangay_clearance,Q183: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+alcohol_regulation,Q184: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+noise_control,Q185: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+curfew,Q186: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+waste_management,Q187: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+alcohol_regulation,Q188: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+alcohol_regulation,Q189: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+barangay_clearance,Q190: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+loitering,Q191: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+waste_management,Q192: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+alcohol_regulation,Q193: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+loitering,Q194: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+community_service,Q195: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+loitering,Q196: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+loitering,Q197: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+community_service,Q198: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+noise_control,Q199: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+loitering,Q200: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+waste_management,"Q201: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+noise_control,Q202: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q203: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+community_service,Q204: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+drugs,Q205: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q206: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+permits,Q207: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+noise_control,Q208: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+noise_control,Q209: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+violence,Q210: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+drugs,Q211: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+loitering,Q212: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+alcohol_regulation,Q213: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+noise_control,Q214: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+alcohol_regulation,Q215: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+alcohol_regulation,Q216: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+curfew,Q217: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+alcohol_regulation,Q218: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+drugs,Q219: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q220: Barangay permits are required for public events.,Barangay permits are required for public events.
+loitering,Q221: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q222: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+loitering,Q223: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+barangay_clearance,Q224: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+waste_management,"Q225: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+barangay_clearance,Q226: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+community_service,Q227: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+noise_control,Q228: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q229: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+waste_management,"Q230: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+alcohol_regulation,Q231: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+alcohol_regulation,Q232: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+barangay_clearance,Q233: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+barangay_clearance,Q234: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+alcohol_regulation,Q235: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+violence,Q236: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+loitering,Q237: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+community_service,Q238: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+loitering,Q239: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q240: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+drugs,Q241: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q242: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+violence,Q243: Barangay strictly prohibits domestic violence and physical assault.,Barangay strictly prohibits domestic violence and physical assault.
+permits,Q244: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+noise_control,Q245: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+barangay_clearance,Q246: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+violence,Q247: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+noise_control,Q248: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+waste_management,Q249: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+community_service,Q250: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+curfew,Q251: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q252: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+violence,Q253: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+drugs,Q254: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q255: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+loitering,Q256: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+loitering,Q257: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q258: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+curfew,Q259: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+loitering,Q260: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+waste_management,Q261: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+barangay_clearance,Q262: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+noise_control,Q263: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+alcohol_regulation,Q264: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+alcohol_regulation,Q265: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q266: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+drugs,Q267: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+noise_control,Q268: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q269: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+permits,Q270: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+noise_control,Q271: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+permits,Q272: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+drugs,Q273: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+curfew,Q274: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+violence,Q275: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+drugs,Q276: Barangay Buhangin supports anti-illegal drugs campaigns.,Illegal drug possession and use are punishable by law.
+loitering,Q277: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q278: Violent behavior will be reported to barangay officials and police.,Barangay strictly prohibits domestic violence and physical assault.
+community_service,Q279: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+curfew,Q280: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+violence,Q281: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+curfew,Q282: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+drugs,Q283: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+waste_management,"Q284: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+violence,Q285: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+barangay_clearance,Q286: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+drugs,Q287: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q288: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+alcohol_regulation,Q289: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+noise_control,Q290: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q291: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q292: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+noise_control,Q293: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q294: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+barangay_clearance,Q295: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q296: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q297: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+alcohol_regulation,Q298: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+violence,Q299: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+permits,Q300: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+loitering,Q301: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+curfew,Q302: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+waste_management,Q303: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+loitering,Q304: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+permits,Q305: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+barangay_clearance,Q306: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+barangay_clearance,Q307: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+noise_control,Q308: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q309: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q310: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+drugs,Q311: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+loitering,Q312: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q313: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+violence,Q314: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+loitering,Q315: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+community_service,Q316: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+alcohol_regulation,Q317: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+barangay_clearance,Q318: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+drugs,Q319: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+community_service,Q320: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+alcohol_regulation,Q321: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+noise_control,Q322: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+barangay_clearance,Q323: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q324: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+violence,Q325: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+noise_control,Q326: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+curfew,Q327: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+curfew,Q328: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+violence,Q329: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+community_service,Q330: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+violence,Q331: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+loitering,Q332: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+curfew,Q333: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q334: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+loitering,Q335: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+waste_management,Q336: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+alcohol_regulation,Q337: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+waste_management,Q338: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+barangay_clearance,Q339: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+noise_control,Q340: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+noise_control,Q341: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+noise_control,Q342: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+alcohol_regulation,Q343: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+waste_management,Q344: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+permits,Q345: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+alcohol_regulation,Q346: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+violence,Q347: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+permits,Q348: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+permits,Q349: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+barangay_clearance,Q350: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+noise_control,Q351: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+noise_control,Q352: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+alcohol_regulation,Q353: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+curfew,Q354: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q355: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+drugs,Q356: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q357: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+loitering,Q358: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+barangay_clearance,Q359: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+loitering,Q360: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+permits,Q361: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+noise_control,Q362: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+loitering,Q363: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q364: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+drugs,Q365: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+violence,Q366: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+drugs,Q367: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q368: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+permits,Q369: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+curfew,Q370: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q371: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+curfew,Q372: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+loitering,Q373: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q374: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+loitering,Q375: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+community_service,Q376: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+alcohol_regulation,Q377: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+violence,Q378: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+community_service,Q379: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+community_service,Q380: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+community_service,Q381: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+loitering,Q382: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q383: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+drugs,Q384: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+waste_management,Q385: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+loitering,Q386: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q387: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+curfew,Q388: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+curfew,Q389: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+community_service,Q390: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+community_service,Q391: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+permits,Q392: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+violence,Q393: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+drugs,Q394: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+drugs,Q395: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+waste_management,"Q396: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+permits,Q397: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+noise_control,Q398: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+alcohol_regulation,Q399: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+loitering,Q400: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q401: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q402: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+community_service,Q403: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+barangay_clearance,Q404: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+drugs,Q405: Barangay Buhangin supports anti-illegal drugs campaigns.,Illegal drug possession and use are punishable by law.
+curfew,Q406: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+permits,Q407: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+community_service,Q408: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+drugs,Q409: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+alcohol_regulation,Q410: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+community_service,Q411: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+community_service,Q412: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+violence,Q413: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+loitering,Q414: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+noise_control,Q415: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,Q416: Improper waste disposal may lead to fines.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+alcohol_regulation,Q417: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q418: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+loitering,Q419: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+community_service,Q420: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+drugs,Q421: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+violence,Q422: Violent behavior will be reported to barangay officials and police.,Barangay strictly prohibits domestic violence and physical assault.
+community_service,Q423: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+loitering,Q424: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q425: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+loitering,Q426: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q427: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+curfew,Q428: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+barangay_clearance,Q429: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+drugs,Q430: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+barangay_clearance,Q431: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+waste_management,"Q432: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+barangay_clearance,Q433: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+alcohol_regulation,Q434: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+waste_management,"Q435: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+curfew,Q436: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+waste_management,Q437: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+permits,Q438: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+permits,Q439: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+violence,Q440: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+drugs,Q441: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+loitering,Q442: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+barangay_clearance,Q443: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+alcohol_regulation,Q444: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+noise_control,Q445: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,Q446: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+curfew,Q447: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q448: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+waste_management,Q449: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+community_service,Q450: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+violence,Q451: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+curfew,Q452: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+violence,Q453: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+violence,Q454: Violent behavior will be reported to barangay officials and police.,Barangay strictly prohibits domestic violence and physical assault.
+violence,Q455: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+waste_management,Q456: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+noise_control,Q457: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q458: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+violence,Q459: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+alcohol_regulation,Q460: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+curfew,Q461: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+alcohol_regulation,Q462: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+community_service,Q463: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+loitering,Q464: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q465: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+alcohol_regulation,Q466: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+waste_management,Q467: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+noise_control,Q468: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+alcohol_regulation,Q469: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+waste_management,Q470: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+curfew,Q471: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+violence,Q472: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+permits,Q473: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+community_service,Q474: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+community_service,Q475: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+drugs,Q476: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+community_service,Q477: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+drugs,Q478: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+curfew,Q479: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+loitering,Q480: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+noise_control,Q481: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q482: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+alcohol_regulation,Q483: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+loitering,Q484: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+waste_management,Q485: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+permits,Q486: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+permits,Q487: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+drugs,Q488: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+community_service,Q489: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+noise_control,Q490: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+permits,Q491: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+barangay_clearance,Q492: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+barangay_clearance,Q493: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+barangay_clearance,Q494: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+permits,Q495: Barangay permits are required for public events.,Barangay permits are required for public events.
+noise_control,Q496: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q497: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+violence,Q498: Barangay strictly prohibits domestic violence and physical assault.,Barangay strictly prohibits domestic violence and physical assault.
+community_service,Q499: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+community_service,Q500: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+violence,Q501: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+barangay_clearance,Q502: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+loitering,Q503: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q504: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q505: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+community_service,Q506: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+alcohol_regulation,Q507: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+drugs,Q508: Barangay Buhangin supports anti-illegal drugs campaigns.,Illegal drug possession and use are punishable by law.
+alcohol_regulation,Q509: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+barangay_clearance,Q510: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+curfew,Q511: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+community_service,Q512: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+loitering,Q513: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+noise_control,Q514: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+barangay_clearance,Q515: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q516: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+waste_management,Q517: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+alcohol_regulation,Q518: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q519: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+community_service,Q520: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+barangay_clearance,Q521: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q522: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+barangay_clearance,Q523: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+permits,Q524: Barangay permits are required for public events.,Barangay permits are required for public events.
+alcohol_regulation,Q525: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+alcohol_regulation,Q526: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+violence,Q527: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+permits,Q528: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+waste_management,Q529: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+waste_management,"Q530: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+alcohol_regulation,Q531: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+waste_management,Q532: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+curfew,Q533: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+community_service,Q534: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+curfew,Q535: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+loitering,Q536: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+barangay_clearance,Q537: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q538: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+drugs,Q539: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+waste_management,"Q540: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+noise_control,Q541: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q542: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+curfew,Q543: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q544: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+waste_management,Q545: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+loitering,Q546: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+noise_control,Q547: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q548: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+community_service,Q549: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+alcohol_regulation,Q550: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+loitering,Q551: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+noise_control,Q552: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+alcohol_regulation,Q553: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+loitering,Q554: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q555: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+barangay_clearance,Q556: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+curfew,Q557: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+violence,Q558: Barangay strictly prohibits domestic violence and physical assault.,Barangay strictly prohibits domestic violence and physical assault.
+community_service,Q559: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+alcohol_regulation,Q560: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+barangay_clearance,Q561: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+loitering,Q562: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q563: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+drugs,Q564: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q565: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+permits,Q566: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+drugs,Q567: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+permits,Q568: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+drugs,Q569: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+barangay_clearance,Q570: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+permits,Q571: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+alcohol_regulation,Q572: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+community_service,Q573: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+alcohol_regulation,Q574: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+loitering,Q575: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+noise_control,Q576: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+noise_control,Q577: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q578: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+permits,Q579: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+permits,Q580: Barangay permits are required for public events.,Barangay permits are required for public events.
+alcohol_regulation,Q581: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+violence,Q582: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+loitering,Q583: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+alcohol_regulation,Q584: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+violence,Q585: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+noise_control,Q586: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+curfew,Q587: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q588: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+permits,Q589: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+loitering,Q590: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+permits,Q591: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+noise_control,Q592: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+violence,Q593: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+violence,Q594: Barangay encourages peaceful resolution of disputes.,Barangay strictly prohibits domestic violence and physical assault.
+curfew,Q595: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+waste_management,"Q596: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+curfew,Q597: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+community_service,Q598: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+community_service,Q599: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+drugs,Q600: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q601: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+violence,Q602: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+drugs,Q603: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+drugs,Q604: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+curfew,Q605: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q606: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+curfew,Q607: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q608: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+loitering,Q609: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+permits,Q610: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+barangay_clearance,Q611: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+curfew,Q612: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+alcohol_regulation,Q613: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+alcohol_regulation,Q614: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+barangay_clearance,Q615: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+barangay_clearance,Q616: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q617: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+drugs,Q618: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q619: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+noise_control,Q620: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+barangay_clearance,Q621: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+loitering,Q622: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+curfew,Q623: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+loitering,Q624: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q625: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+noise_control,Q626: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,Q627: Improper waste disposal may lead to fines.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+waste_management,"Q628: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+permits,Q629: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+alcohol_regulation,Q630: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+waste_management,Q631: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+barangay_clearance,Q632: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+drugs,Q633: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+waste_management,Q634: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+permits,Q635: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+alcohol_regulation,Q636: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+community_service,Q637: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+community_service,Q638: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+noise_control,Q639: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+curfew,Q640: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q641: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+barangay_clearance,Q642: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+violence,Q643: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+noise_control,Q644: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q645: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+alcohol_regulation,Q646: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+barangay_clearance,Q647: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+drugs,Q648: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+community_service,Q649: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+noise_control,Q650: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,"Q651: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+violence,Q652: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+loitering,Q653: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q654: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+waste_management,Q655: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+permits,Q656: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+noise_control,Q657: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+noise_control,Q658: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+community_service,Q659: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+drugs,Q660: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+waste_management,"Q661: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+violence,Q662: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+permits,Q663: Barangay permits are required for public events.,Barangay permits are required for public events.
+waste_management,Q664: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+permits,Q665: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+barangay_clearance,Q666: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+curfew,Q667: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+permits,Q668: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+waste_management,Q669: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+drugs,Q670: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+alcohol_regulation,Q671: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+permits,Q672: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+violence,Q673: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+waste_management,Q674: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+loitering,Q675: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q676: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+community_service,Q677: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+barangay_clearance,Q678: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+noise_control,Q679: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+noise_control,Q680: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+drugs,Q681: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+permits,Q682: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+community_service,Q683: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+loitering,Q684: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+noise_control,Q685: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q686: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+waste_management,"Q687: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+noise_control,Q688: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+alcohol_regulation,Q689: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+barangay_clearance,Q690: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+permits,Q691: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+loitering,Q692: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+drugs,Q693: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+alcohol_regulation,Q694: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+permits,Q695: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+curfew,Q696: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+noise_control,Q697: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q698: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+alcohol_regulation,Q699: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+curfew,Q700: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+barangay_clearance,Q701: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+alcohol_regulation,Q702: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+violence,Q703: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+loitering,Q704: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+barangay_clearance,Q705: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+noise_control,Q706: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+permits,Q707: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+waste_management,"Q708: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+loitering,Q709: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+barangay_clearance,Q710: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+drugs,Q711: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q712: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+barangay_clearance,Q713: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+drugs,Q714: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q715: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+noise_control,Q716: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+alcohol_regulation,Q717: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+alcohol_regulation,Q718: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+barangay_clearance,Q719: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+permits,Q720: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+community_service,Q721: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+drugs,Q722: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+community_service,Q723: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+violence,Q724: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+waste_management,Q725: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+barangay_clearance,Q726: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+permits,Q727: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+noise_control,Q728: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+permits,Q729: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+community_service,Q730: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+curfew,Q731: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+waste_management,Q732: Improper waste disposal may lead to fines.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+permits,Q733: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+violence,Q734: Barangay strictly prohibits domestic violence and physical assault.,Barangay strictly prohibits domestic violence and physical assault.
+noise_control,Q735: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+community_service,Q736: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+community_service,Q737: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+barangay_clearance,Q738: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+loitering,Q739: Loitering rules are enforced for minors and late-night gatherings.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q740: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+permits,Q741: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+curfew,Q742: The barangay enforces curfew to ensure peace and order at night.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+barangay_clearance,Q743: Barangay clearance can be requested at the Barangay Hall during office hours.,Clearance is needed for job applications and legal documents.
+drugs,Q744: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+community_service,Q745: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+waste_management,"Q746: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+drugs,Q747: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+alcohol_regulation,Q748: Liquor ban applies during fiestas and election periods.,Alcohol selling is prohibited after 10:00 PM.
+community_service,Q749: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+community_service,Q750: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+barangay_clearance,Q751: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+permits,Q752: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+alcohol_regulation,Q753: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+violence,Q754: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+noise_control,Q755: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q756: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+permits,Q757: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+noise_control,Q758: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+permits,Q759: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+community_service,Q760: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+curfew,Q761: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+curfew,Q762: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q763: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+alcohol_regulation,Q764: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q765: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+drugs,Q766: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+permits,Q767: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+alcohol_regulation,Q768: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+drugs,Q769: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+barangay_clearance,Q770: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+loitering,Q771: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+drugs,Q772: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+alcohol_regulation,Q773: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+waste_management,"Q774: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+noise_control,Q775: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q776: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+waste_management,Q777: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+waste_management,Q778: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+alcohol_regulation,Q779: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+curfew,Q780: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+noise_control,Q781: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+violence,Q782: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+drugs,Q783: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+loitering,Q784: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+loitering,Q785: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+permits,Q786: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+permits,Q787: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+permits,Q788: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+alcohol_regulation,Q789: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+curfew,Q790: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q791: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+waste_management,Q792: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+alcohol_regulation,Q793: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+curfew,Q794: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+community_service,Q795: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+community_service,Q796: Barangay promotes community volunteerism.,Community service may be given as penalty for minor offenses.
+community_service,Q797: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+drugs,Q798: Illegal drug possession and use are punishable by law.,Illegal drug possession and use are punishable by law.
+community_service,Q799: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+permits,Q800: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+loitering,Q801: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+barangay_clearance,Q802: Clearance is needed for job applications and legal documents.,Requirements for clearance include valid ID and barangay residency.
+noise_control,Q803: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+noise_control,Q804: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q805: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+community_service,Q806: Offenders may be required to join clean-up drives.,Barangay promotes community volunteerism.
+curfew,Q807: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+alcohol_regulation,Q808: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+permits,Q809: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+waste_management,"Q810: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+curfew,Q811: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q812: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+drugs,Q813: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q814: Barangay permits are required for public events.,Barangay permits are required for public events.
+waste_management,Q815: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+loitering,Q816: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+community_service,Q817: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+community_service,Q818: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+permits,Q819: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+community_service,Q820: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+barangay_clearance,Q821: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+waste_management,Q822: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+waste_management,Q823: Improper waste disposal may lead to fines.,Residents must segregate biodegradable and non-biodegradable waste.
+community_service,Q824: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+alcohol_regulation,Q825: Residents must follow restrictions on alcohol to avoid penalties.,Residents must follow restrictions on alcohol to avoid penalties.
+loitering,Q826: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+loitering,Q827: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+barangay_clearance,Q828: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+alcohol_regulation,Q829: Residents must follow restrictions on alcohol to avoid penalties.,Alcohol selling is prohibited after 10:00 PM.
+alcohol_regulation,Q830: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+loitering,Q831: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+drugs,Q832: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+waste_management,"Q833: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+drugs,Q834: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+violence,Q835: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+drugs,Q836: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q837: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+permits,Q838: Barangay permits are required for public events.,Applicants must secure barangay approval before construction projects.
+barangay_clearance,Q839: Requirements for clearance include valid ID and barangay residency.,Barangay clearance can be requested at the Barangay Hall during office hours.
+curfew,Q840: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+curfew,Q841: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+noise_control,Q842: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q843: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+violence,Q844: Violent behavior will be reported to barangay officials and police.,Violent behavior will be reported to barangay officials and police.
+drugs,Q845: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+alcohol_regulation,Q846: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+noise_control,Q847: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+violence,Q848: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+drugs,Q849: Barangay Buhangin supports anti-illegal drugs campaigns.,Illegal drug possession and use are punishable by law.
+alcohol_regulation,Q850: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+curfew,Q851: The barangay enforces curfew to ensure peace and order at night.,The barangay enforces curfew to ensure peace and order at night.
+noise_control,Q852: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+loitering,Q853: Groups gathering in restricted areas may be dispersed by barangay tanods.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+drugs,Q854: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+permits,Q855: Business permits are processed through the barangay before city hall.,Business permits are processed through the barangay before city hall.
+curfew,Q856: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+permits,Q857: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+alcohol_regulation,Q858: Liquor ban applies during fiestas and election periods.,Liquor ban applies during fiestas and election periods.
+drugs,Q859: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+drugs,Q860: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+drugs,Q861: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q862: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+permits,Q863: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+loitering,Q864: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q865: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+community_service,Q866: Community service may be given as penalty for minor offenses.,Offenders may be required to join clean-up drives.
+alcohol_regulation,Q867: Alcohol selling is prohibited after 10:00 PM.,Alcohol selling is prohibited after 10:00 PM.
+community_service,Q868: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+alcohol_regulation,Q869: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+permits,Q870: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+noise_control,Q871: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q872: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+barangay_clearance,Q873: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+curfew,Q874: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+noise_control,Q875: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+waste_management,"Q876: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Improper waste disposal may lead to fines.
+barangay_clearance,Q877: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+permits,Q878: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+alcohol_regulation,Q879: Alcohol selling is prohibited after 10:00 PM.,Residents must follow restrictions on alcohol to avoid penalties.
+permits,Q880: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+loitering,Q881: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+violence,Q882: Barangay encourages peaceful resolution of disputes.,Violent behavior will be reported to barangay officials and police.
+noise_control,Q883: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+violence,Q884: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+drugs,Q885: Residents are encouraged to report drug-related activities.,Residents are encouraged to report drug-related activities.
+alcohol_regulation,Q886: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+loitering,Q887: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+loitering,Q888: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+permits,Q889: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+permits,Q890: Barangay permits are required for public events.,Barangay permits are required for public events.
+curfew,Q891: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+permits,Q892: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+waste_management,Q893: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+waste_management,"Q894: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.","Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+community_service,Q895: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+violence,Q896: Violent behavior will be reported to barangay officials and police.,Barangay strictly prohibits domestic violence and physical assault.
+noise_control,Q897: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+noise_control,Q898: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q899: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+curfew,Q900: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+curfew,Q901: Minors must stay indoors during curfew (10 PM - 4 AM).,Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.
+community_service,Q902: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+violence,Q903: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+barangay_clearance,Q904: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+permits,Q905: Business permits are processed through the barangay before city hall.,Barangay permits are required for public events.
+drugs,Q906: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q907: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+drugs,Q908: Illegal drug possession and use are punishable by law.,Residents are encouraged to report drug-related activities.
+waste_management,Q909: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+loitering,Q910: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+loitering,Q911: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+waste_management,Q912: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+barangay_clearance,Q913: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+violence,Q914: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+barangay_clearance,Q915: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+noise_control,Q916: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q917: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+curfew,Q918: The barangay enforces curfew to ensure peace and order at night.,Minors must stay indoors during curfew (10 PM - 4 AM).
+noise_control,Q919: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+permits,Q920: Applicants must secure barangay approval before construction projects.,Barangay permits are required for public events.
+permits,Q921: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+waste_management,Q922: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+drugs,Q923: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q924: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+waste_management,Q925: Residents must segregate biodegradable and non-biodegradable waste.,Residents must segregate biodegradable and non-biodegradable waste.
+community_service,Q926: Offenders may be required to join clean-up drives.,Offenders may be required to join clean-up drives.
+loitering,Q927: Loitering in public areas during curfew is prohibited.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+permits,Q928: Applicants must secure barangay approval before construction projects.,Business permits are processed through the barangay before city hall.
+violence,Q929: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+curfew,Q930: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,Minors must stay indoors during curfew (10 PM - 4 AM).
+noise_control,Q931: Barangay noise ordinance requires lowering volume at night.,Barangay noise ordinance requires lowering volume at night.
+curfew,Q932: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+loitering,Q933: Loitering in public areas during curfew is prohibited.,Loitering rules are enforced for minors and late-night gatherings.
+violence,Q934: Violent behavior will be reported to barangay officials and police.,Barangay encourages peaceful resolution of disputes.
+barangay_clearance,Q935: Requirements for clearance include valid ID and barangay residency.,Clearance is needed for job applications and legal documents.
+community_service,Q936: Community service may be given as penalty for minor offenses.,Community service may be given as penalty for minor offenses.
+permits,Q937: Barangay permits are required for public events.,Business permits are processed through the barangay before city hall.
+waste_management,Q938: Residents must segregate biodegradable and non-biodegradable waste.,Improper waste disposal may lead to fines.
+noise_control,Q939: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+noise_control,Q940: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q941: Barangay promotes community volunteerism.,Offenders may be required to join clean-up drives.
+noise_control,Q942: Barangay noise ordinance requires lowering volume at night.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,"Q943: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+alcohol_regulation,Q944: Residents must follow restrictions on alcohol to avoid penalties.,Liquor ban applies during fiestas and election periods.
+permits,Q945: Applicants must secure barangay approval before construction projects.,Applicants must secure barangay approval before construction projects.
+alcohol_regulation,Q946: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+drugs,Q947: Residents are encouraged to report drug-related activities.,Illegal drug possession and use are punishable by law.
+barangay_clearance,Q948: Requirements for clearance include valid ID and barangay residency.,Requirements for clearance include valid ID and barangay residency.
+barangay_clearance,Q949: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+community_service,Q950: Barangay promotes community volunteerism.,Barangay promotes community volunteerism.
+waste_management,Q951: Residents must segregate biodegradable and non-biodegradable waste.,"Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday."
+loitering,Q952: Loitering rules are enforced for minors and late-night gatherings.,Groups gathering in restricted areas may be dispersed by barangay tanods.
+noise_control,Q953: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+noise_control,Q954: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+community_service,Q955: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+noise_control,Q956: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+curfew,Q957: Curfew hours in Barangay Buhangin are from 10:00 PM to 4:00 AM.,The barangay enforces curfew to ensure peace and order at night.
+violence,Q958: Barangay encourages peaceful resolution of disputes.,Barangay encourages peaceful resolution of disputes.
+alcohol_regulation,Q959: Alcohol selling is prohibited after 10:00 PM.,Liquor ban applies during fiestas and election periods.
+noise_control,Q960: Unnecessary loud sound at night may lead to barangay sanctions.,Unnecessary loud sound at night may lead to barangay sanctions.
+drugs,Q961: Barangay Buhangin supports anti-illegal drugs campaigns.,Barangay Buhangin supports anti-illegal drugs campaigns.
+community_service,Q962: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+barangay_clearance,Q963: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+community_service,Q964: Offenders may be required to join clean-up drives.,Community service may be given as penalty for minor offenses.
+loitering,Q965: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering in public areas during curfew is prohibited.
+loitering,Q966: Loitering rules are enforced for minors and late-night gatherings.,Loitering in public areas during curfew is prohibited.
+drugs,Q967: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+barangay_clearance,Q968: Barangay clearance can be requested at the Barangay Hall during office hours.,Barangay clearance can be requested at the Barangay Hall during office hours.
+barangay_clearance,Q969: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+drugs,Q970: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+drugs,Q971: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+noise_control,Q972: Loud noise is prohibited after 9:00 PM in residential areas.,Loud noise is prohibited after 9:00 PM in residential areas.
+loitering,Q973: Groups gathering in restricted areas may be dispersed by barangay tanods.,Loitering rules are enforced for minors and late-night gatherings.
+noise_control,Q974: Loud noise is prohibited after 9:00 PM in residential areas.,Unnecessary loud sound at night may lead to barangay sanctions.
+drugs,Q975: Illegal drug possession and use are punishable by law.,Barangay Buhangin supports anti-illegal drugs campaigns.
+noise_control,Q976: Unnecessary loud sound at night may lead to barangay sanctions.,Loud noise is prohibited after 9:00 PM in residential areas.
+waste_management,"Q977: Garbage collection in Barangay Buhangin is every Monday, Wednesday, and Friday.",Residents must segregate biodegradable and non-biodegradable waste.
+barangay_clearance,Q978: Clearance is needed for job applications and legal documents.,Barangay clearance can be requested at the Barangay Hall during office hours.
+alcohol_regulation,Q979: Liquor ban applies during fiestas and election periods.,Residents must follow restrictions on alcohol to avoid penalties.
+waste_management,Q980: Improper waste disposal may lead to fines.,Improper waste disposal may lead to fines.
+noise_control,Q981: Loud noise is prohibited after 9:00 PM in residential areas.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q982: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+barangay_clearance,Q983: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+noise_control,Q984: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+noise_control,Q985: Barangay noise ordinance requires lowering volume at night.,Unnecessary loud sound at night may lead to barangay sanctions.
+community_service,Q986: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
+violence,Q987: Barangay strictly prohibits domestic violence and physical assault.,Barangay encourages peaceful resolution of disputes.
+drugs,Q988: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+curfew,Q989: Minors must stay indoors during curfew (10 PM - 4 AM).,Minors must stay indoors during curfew (10 PM - 4 AM).
+noise_control,Q990: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+loitering,Q991: Loitering in public areas during curfew is prohibited.,Loitering in public areas during curfew is prohibited.
+barangay_clearance,Q992: Barangay clearance can be requested at the Barangay Hall during office hours.,Requirements for clearance include valid ID and barangay residency.
+curfew,Q993: Minors must stay indoors during curfew (10 PM - 4 AM).,The barangay enforces curfew to ensure peace and order at night.
+barangay_clearance,Q994: Clearance is needed for job applications and legal documents.,Clearance is needed for job applications and legal documents.
+noise_control,Q995: Unnecessary loud sound at night may lead to barangay sanctions.,Barangay noise ordinance requires lowering volume at night.
+drugs,Q996: Residents are encouraged to report drug-related activities.,Barangay Buhangin supports anti-illegal drugs campaigns.
+permits,Q997: Business permits are processed through the barangay before city hall.,Applicants must secure barangay approval before construction projects.
+drugs,Q998: Barangay Buhangin supports anti-illegal drugs campaigns.,Residents are encouraged to report drug-related activities.
+violence,Q999: Barangay strictly prohibits domestic violence and physical assault.,Violent behavior will be reported to barangay officials and police.
+community_service,Q1000: Community service may be given as penalty for minor offenses.,Barangay promotes community volunteerism.
