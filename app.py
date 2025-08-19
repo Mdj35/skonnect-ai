@@ -1,15 +1,15 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import pickle
+import pickle, os, datetime
 import pandas as pd
-import os
 import numpy as np
-import datetime
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+from sklearn.linear_model import SGDClassifier
+from sklearn.feature_extraction.text import HashingVectorizer
 
 # ========================
-# Load model & preprocessors
+# Load TensorFlow model & preprocessors
 # ========================
 model = load_model("chatbot_model.h5")
 
@@ -19,59 +19,97 @@ with open("tokenizer.pkl", "rb") as f:
 with open("label_encoder.pkl", "rb") as f:
     label_encoder = pickle.load(f)
 
-# Load FAQ dataset
 faq_df = pd.read_csv("faq_dataset.csv")
-
 max_len = 20
-LOG_FILE = "chat_logs.csv"
 
 # ========================
-# Ensure log file exists
+# Incremental learning model (hybrid)
 # ========================
+vectorizer = HashingVectorizer(n_features=2**16)
+clf = SGDClassifier(loss="log")
+
+# Initialize with at least 1 sample per class from FAQ dataset
+if "intent" in faq_df.columns:
+    X_init = vectorizer.transform(faq_df["sample_question"].astype(str).tolist())
+    y_init = faq_df["intent"].astype(str).tolist()
+    clf.partial_fit(X_init, y_init, classes=np.unique(y_init))
+
+# ========================
+# Logging
+# ========================
+LOG_FILE = "chat_logs.csv"
 if not os.path.exists(LOG_FILE):
     pd.DataFrame(columns=["timestamp", "user_message", "predicted_intent", "bot_response"]).to_csv(LOG_FILE, index=False)
 
-def log_conversation(user_message, predicted_intent, bot_reply):
-    """Append a single conversation entry to the log file."""
+def log_conversation(user_message, predicted_intent, bot_reply, source="keras"):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    log_df = pd.DataFrame([[timestamp, user_message, predicted_intent, bot_reply]],
-                          columns=["timestamp", "user_message", "predicted_intent", "bot_response"])
+    log_df = pd.DataFrame([[timestamp, user_message, predicted_intent, bot_reply, source]],
+                          columns=["timestamp", "user_message", "predicted_intent", "bot_response", "model_source"])
     log_df.to_csv(LOG_FILE, mode="a", header=False, index=False)
 
 # ========================
-# Flask App Setup
+# Flask
 # ========================
 app = Flask(__name__)
 CORS(app)
 
 @app.route('/chat', methods=['POST'])
 def chat():
-    """Chat endpoint: takes user message and returns predicted intent + response."""
     data = request.json
-    message = data.get('message', '').lower()
+    message = data.get("message", "").lower()
 
-    # Preprocess message
+    # ---------- Step 1: TensorFlow model prediction ----------
     seq = tokenizer.texts_to_sequences([message])
-    padded = pad_sequences(seq, maxlen=max_len, padding='post')
+    padded = pad_sequences(seq, maxlen=max_len, padding="post")
 
-    # Predict intent
     pred = model.predict(padded)
     intent_idx = np.argmax(pred)
     predicted_intent = label_encoder.inverse_transform([intent_idx])[0]
+    confidence = float(np.max(pred))
 
-    # Get response (default if not found)
-    bot_reply = "I'm not sure how to respond to that yet."
-    if predicted_intent in faq_df['intent'].values:
-        bot_reply = faq_df[faq_df['intent'] == predicted_intent]['bot_response'].iloc[0]
+    # ---------- Step 2: Incremental model backup ----------
+    X = vectorizer.transform([message])
+    if hasattr(clf, "classes_"):  # ensure trained
+        alt_intent = clf.predict(X)[0]
+    else:
+        alt_intent = predicted_intent
 
-    # Log conversation
-    log_conversation(message, predicted_intent, bot_reply)
+    # ---------- Step 3: Choose response ----------
+    bot_reply = "I'm not sure how to respond yet."
+    source = "keras"
 
-    return jsonify({"intent": predicted_intent, "response": bot_reply})
+    if confidence < 0.6:  # if low confidence, fallback
+        predicted_intent = alt_intent
+        source = "incremental"
+
+    if predicted_intent in faq_df["intent"].values:
+        bot_reply = faq_df[faq_df["intent"] == predicted_intent]["bot_response"].iloc[0]
+
+    # ---------- Step 4: Log ----------
+    log_conversation(message, predicted_intent, bot_reply, source)
+
+    return jsonify({
+        "intent": predicted_intent,
+        "confidence": confidence,
+        "response": bot_reply,
+        "source": source
+    })
+
+@app.route("/feedback", methods=["POST"])
+def feedback():
+    """Update incremental model with corrected intent"""
+    data = request.json
+    message = data["message"].lower()
+    correct_intent = data["correct_intent"]
+
+    X_new = vectorizer.transform([message])
+    clf.partial_fit(X_new, [correct_intent])
+
+    return jsonify({"status": "updated", "new_intent": correct_intent})
 
 # ========================
-# Run the App
+# Run
 # ========================
-if __name__ == '__main__':
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=True)
