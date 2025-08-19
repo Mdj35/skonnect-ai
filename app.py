@@ -26,9 +26,9 @@ max_len = 20
 # Incremental learning model (hybrid)
 # ========================
 vectorizer = HashingVectorizer(n_features=2**16)
-clf = SGDClassifier(loss="log")
+clf = SGDClassifier(loss="log_loss")  # <-- FIXED
 
-# Initialize with at least 1 sample per class from FAQ dataset
+# Initialize with FAQ dataset
 if "intent" in faq_df.columns and "patterns" in faq_df.columns:
     X_init = vectorizer.transform(faq_df["patterns"].astype(str).tolist())
     y_init = faq_df["intent"].astype(str).tolist()
@@ -46,6 +46,19 @@ def log_conversation(user_message, predicted_intent, bot_reply, source="keras"):
     log_df = pd.DataFrame([[timestamp, user_message, predicted_intent, bot_reply, source]],
                           columns=["timestamp", "user_message", "predicted_intent", "bot_response", "model_source"])
     log_df.to_csv(LOG_FILE, mode="a", header=False, index=False)
+
+# ========================
+# Reload from logs for auto-learning
+# ========================
+try:
+    log_data = pd.read_csv(LOG_FILE)
+    if not log_data.empty:
+        X_logs = vectorizer.transform(log_data["user_message"].astype(str).tolist())
+        y_logs = log_data["predicted_intent"].astype(str).tolist()
+        if len(set(y_logs)) > 0:
+            clf.partial_fit(X_logs, y_logs, classes=np.unique(y_logs))
+except Exception as e:
+    print("Log reload skipped:", e)
 
 # ========================
 # Flask
@@ -104,6 +117,9 @@ def feedback():
 
     X_new = vectorizer.transform([message])
     clf.partial_fit(X_new, [correct_intent])
+
+    # Also log corrected entry
+    log_conversation(message, correct_intent, "Corrected by user", source="feedback")
 
     return jsonify({"status": "updated", "new_intent": correct_intent})
 
