@@ -19,7 +19,13 @@ with open("tokenizer.pkl", "rb") as f:
 with open("label_encoder.pkl", "rb") as f:
     label_encoder = pickle.load(f)
 
-faq_df = pd.read_csv("sk_faq_dataset_fully_unique.csv")
+# 🔥 Load both datasets
+faq_df1 = pd.read_csv("sk_faq_dataset_fully_unique.csv")        # SK FAQ dataset
+faq_df2 = pd.read_csv("barangay_buhangin.csv")       # Barangay Buhangin rules
+
+# 🔥 Merge datasets into one big FAQ set
+faq_df = pd.concat([faq_df1, faq_df2], ignore_index=True)
+
 max_len = 20
 
 # ========================
@@ -28,7 +34,7 @@ max_len = 20
 vectorizer = HashingVectorizer(n_features=2**16)
 clf = SGDClassifier(loss="log_loss")
 
-# Initialize with FAQ dataset
+# Initialize with merged FAQ dataset
 if "intent" in faq_df.columns and "patterns" in faq_df.columns:
     X_init = vectorizer.transform(faq_df["patterns"].astype(str).tolist())
     y_init = faq_df["intent"].astype(str).tolist()
