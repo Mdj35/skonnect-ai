@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import pickle, os, datetime
+import pickle, os, datetime, random
 import pandas as pd
 import numpy as np
 from tensorflow.keras.models import load_model
@@ -26,7 +26,7 @@ max_len = 20
 # Incremental learning model (hybrid)
 # ========================
 vectorizer = HashingVectorizer(n_features=2**16)
-clf = SGDClassifier(loss="log_loss")  # <-- FIXED
+clf = SGDClassifier(loss="log_loss")
 
 # Initialize with FAQ dataset
 if "intent" in faq_df.columns and "patterns" in faq_df.columns:
@@ -66,6 +66,33 @@ except Exception as e:
 app = Flask(__name__)
 CORS(app)
 
+# Templates for dynamic rephrasing
+templates = [
+    "Here’s what I found: {answer}",
+    "Good question! {answer}",
+    "Sure thing 👍 {answer}",
+    "Here’s the info you need: {answer}",
+    "Absolutely! {answer}",
+    "{answer} (hope that clears things up!)",
+    "No worries — {answer}",
+]
+
+last_responses = {}
+
+def generate_dynamic_reply(base_reply, intent):
+    """Wrap base reply into a random template and avoid repetition."""
+    chosen_template = random.choice(templates)
+    reply = chosen_template.format(answer=base_reply)
+
+    # Avoid repeating the exact same reply for the same intent
+    if intent in last_responses and last_responses[intent] == reply:
+        alt_templates = [t for t in templates if t.format(answer=base_reply) != reply]
+        if alt_templates:
+            reply = random.choice(alt_templates).format(answer=base_reply)
+
+    last_responses[intent] = reply
+    return reply
+
 @app.route('/chat', methods=['POST'])
 def chat():
     data = request.json
@@ -96,7 +123,10 @@ def chat():
         source = "incremental"
 
     if predicted_intent in faq_df["intent"].values:
-        bot_reply = faq_df[faq_df["intent"] == predicted_intent]["bot_response"].iloc[0]
+        responses = faq_df[faq_df["intent"] == predicted_intent]["bot_response"].tolist()
+        if responses:
+            base_reply = random.choice(responses)  # pick a valid base answer
+            bot_reply = generate_dynamic_reply(base_reply, predicted_intent)
 
     # ---------- Step 4: Log ----------
     log_conversation(message, predicted_intent, bot_reply, source)
